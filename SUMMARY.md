@@ -4,18 +4,18 @@
 
 ## Общие принципы компьютерной графики (CG)
 
-* [Определения, терминология](obshie-principy-kompyuternoi-grafiki-cg/opredeleniya-terminologiya.md)
+* [🗃 Определения, терминология](obshie-principy-kompyuternoi-grafiki-cg/opredeleniya-terminologiya.md)
 
 ## Кнопки
 
-* [Autodesk 3dsMax](knopki/autodesk-3dsmax/README.md)
+* [3⃣ Autodesk 3dsMax](knopki/autodesk-3dsmax/README.md)
   * [Приёмы, шпаргалки](knopki/autodesk-3dsmax/priyomy-shpargalki.md)
   * [Ресурсы](knopki/autodesk-3dsmax/resursy.md)
 * [\[OpenSource\]Blender](knopki/opensource-blender/README.md)
   * [Ресурсы](knopki/opensource-blender/resursy.md)
-* [Cinema 4D](knopki/cinema-4d.md)
-* [Houdini FX](knopki/houdini-fx.md)
-* [ZBrush](knopki/zbrush.md)
+* [🎬 Cinema 4D](knopki/cinema-4d.md)
+* [🎩 Houdini FX](knopki/houdini-fx.md)
+* [🖌 ZBrush](knopki/zbrush.md)
 * [🌍 QGIS](knopki/qgis.md)
 
 ## Кнопки. Чертёжный софт
