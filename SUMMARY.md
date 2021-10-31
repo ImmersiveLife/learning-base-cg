@@ -30,6 +30,10 @@
   * [Логика и принципы программы](knopki.-chertyozhnyi-soft/revit/logika-i-principy-programmy.md)
   * [How to. Как сделать?](knopki.-chertyozhnyi-soft/revit/how-to.-kak-sdelat.md)
   * [Ресурсы](knopki.-chertyozhnyi-soft/revit/resursy.md)
+* [Rhinoceros 3D](knopki.-chertyozhnyi-soft/rhinoceros-3d/README.md)
+  * [Плагины и модули](knopki.-chertyozhnyi-soft/rhinoceros-3d/plaginy-i-moduli.md)
+* [Rhinoceros 3D. Grashopper](knopki.-chertyozhnyi-soft/rhinoceros-3d.-grashopper/README.md)
+  * [Плагины и модули](knopki.-chertyozhnyi-soft/rhinoceros-3d.-grashopper/plaginy-i-moduli.md)
 
 ## Кнопки. Векторные редакторы
 
