@@ -16,7 +16,7 @@
 * [Cinema 4D](knopki/cinema-4d.md)
 * [Houdini FX](knopki/houdini-fx.md)
 * [ZBrush](knopki/zbrush.md)
-* [QGIS](knopki/qgis.md)
+* [🌍 QGIS](knopki/qgis.md)
 
 ## Кнопки. Чертёжный софт
 
