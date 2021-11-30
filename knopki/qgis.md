@@ -15,6 +15,7 @@
 ### Справка
 
 1. [KartenX](https://www.youtube.com/channel/UCWZ9h9DLnWtofBOZusAnWBQ) - школа картографии | Справочные материалы и мастер-классы под различные задачи в GIS-программах
+2. Urbica - плейлист по анализу пространственных данных | [«Масштаб»: визуализация геоданных](https://www.youtube.com/playlist?list=PLgMlm2We4Ehjo0HgCUurJcvX11P7rAg3P)
 
 ### Автоматизация
 
