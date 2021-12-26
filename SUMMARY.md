@@ -20,7 +20,9 @@
 
 ## Кнопки. Чертёжный софт
 
-* [AutoCAD](knopki.-chertyozhnyi-soft/autocad.md)
+* [AutoCAD](knopki.-chertyozhnyi-soft/autocad/README.md)
+  * [Системные переменные](knopki.-chertyozhnyi-soft/autocad/sistemnye-peremennye.md)
+  * [Ресурсы](knopki.-chertyozhnyi-soft/autocad/resursy.md)
 * [SketchUp](knopki.-chertyozhnyi-soft/sketchup.md)
 * [Revit](knopki.-chertyozhnyi-soft/revit/README.md)
   * [Интерфейс. Расположение, назначение и настройка кнопок](knopki.-chertyozhnyi-soft/revit/interfeis.-raspolozhenie-naznachenie-i-nastroika-knopok/README.md)
@@ -41,7 +43,8 @@
 
 ## Кнопки. Растровые редакторы
 
-* [Adobe Photoshop](knopki.-rastrovye-redaktory/adobe-photoshop.md)
+* [Adobe Photoshop](knopki.-rastrovye-redaktory/adobe-photoshop/README.md)
+  * [Ресурсы](knopki.-rastrovye-redaktory/adobe-photoshop/resursy.md)
 
 ## Предметная область: Архитектурная визуализация
 
