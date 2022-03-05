@@ -48,7 +48,8 @@
 
 ## Предметная область: Архитектурная визуализация
 
-* [Page 3](predmetnaya-oblast-arkhitekturnaya-vizualizaciya/page-3.md)
+* [Unreal Engine](predmetnaya-oblast-arkhitekturnaya-vizualizaciya/page-3/README.md)
+  * [Ресурсы](predmetnaya-oblast-arkhitekturnaya-vizualizaciya/page-3/resursy.md)
 
 ## Предметная область: Анимация
 
