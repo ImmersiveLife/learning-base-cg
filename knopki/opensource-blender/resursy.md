@@ -3,6 +3,7 @@
 ## Галереи Ассетов
 
 1. [Blenderkit ](https://www.blenderkit.com/asset-gallery?query=order%3A-created+category\_subtree%3Aarchitecture+is\_free%3Atrue\&force\_cache=true\&page=10)| 3D-модели, текстуры, HDRI-карты, материалы, кисти и аддоны
+2. [Pack 3D models](https://p3dm.ru) | 3D-модели, тьюториалы, чертежи транспорта
 
 ## Аддоны
 
